@@ -1,0 +1,106 @@
+C:\Users\Sistemas-07\source\repos\Sistematico1_DotNet\Sistematico1\Sistematico1\bin\Debug\Sistematico1.exe.config
+C:\Users\Sistemas-07\source\repos\Sistematico1_DotNet\Sistematico1\Sistematico1\bin\Debug\Sistematico1.exe
+C:\Users\Sistemas-07\source\repos\Sistematico1_DotNet\Sistematico1\Sistematico1\bin\Debug\Sistematico1.pdb
+C:\Users\Sistemas-07\source\repos\Sistematico1_DotNet\Sistematico1\Sistematico1\obj\Debug\Sistematico1.Properties.Resources.resources
+C:\Users\Sistemas-07\source\repos\Sistematico1_DotNet\Sistematico1\Sistematico1\obj\Debug\Sistematico1.csproj.GenerateResource.cache
+C:\Users\Sistemas-07\source\repos\Sistematico1_DotNet\Sistematico1\Sistematico1\obj\Debug\Sistematico1.csproj.CoreCompileInputs.cache
+C:\Users\Sistemas-07\source\repos\Sistematico1_DotNet\Sistematico1\Sistematico1\obj\Debug\Sistematico1.exe
+C:\Users\Sistemas-07\source\repos\Sistematico1_DotNet\Sistematico1\Sistematico1\obj\Debug\Sistematico1.pdb
+C:\Users\LENOVO\source\repos\Sistematico1_DotNet\Sistematico1\Sistematico1\obj\Debug\Sistematico1.Productos.resources
+C:\Users\LENOVO\source\repos\Sistematico1_DotNet\Sistematico1\Sistematico1\obj\Debug\Sistematico1.ProductoCatalogo.resources
+C:\Users\LENOVO\source\repos\Sistematico1_DotNet\Sistematico1\Sistematico1\obj\Debug\Sistematico1.Properties.Resources.resources
+C:\Users\LENOVO\source\repos\Sistematico1_DotNet\Sistematico1\Sistematico1\obj\Debug\Sistematico1.csproj.GenerateResource.cache
+C:\Users\LENOVO\source\repos\Sistematico1_DotNet\Sistematico1\Sistematico1\obj\Debug\Sistematico1.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\Sistematico1_DotNet\Sistematico1\Sistematico1\obj\Debug\Sistematico1.exe
+C:\Users\LENOVO\source\repos\Sistematico1_DotNet\Sistematico1\Sistematico1\obj\Debug\Sistematico1.pdb
+C:\Users\LENOVO\source\repos\Sistematico1_DotNet\Sistematico1\Sistematico1\bin\Debug\Sistematico1.exe.config
+C:\Users\LENOVO\source\repos\Sistematico1_DotNet\Sistematico1\Sistematico1\bin\Debug\Sistematico1.exe
+C:\Users\LENOVO\source\repos\Sistematico1_DotNet\Sistematico1\Sistematico1\bin\Debug\Sistematico1.pdb
+C:\Users\LENOVO\source\repos\Sistematico1_DotNet\Sistematico1\Sistematico1\obj\Debug\Sistematico1.ucProducto.resources
+C:\Users\LENOVO\source\repos\Sistematico1_DotNet\Sistematico1\Sistematico1\obj\Debug\Sistematico1.csprojAssemblyReference.cache
+C:\Users\LENOVO\source\repos\Sistematico1_DotNet\Sistematico1\Sistematico1\obj\Debug\Sistematico1.ProductoView.resources
+C:\Users\LENOVO\Documents\Uziel\Git repos\Sistematico1_DotNet\Sistematico1\Sistematico1\obj\Debug\Sistematico1.csprojAssemblyReference.cache
+C:\Users\LENOVO\Documents\Uziel\Git repos\Sistematico1_DotNet\Sistematico1\Sistematico1\obj\Debug\Sistematico1.Productos.resources
+C:\Users\LENOVO\Documents\Uziel\Git repos\Sistematico1_DotNet\Sistematico1\Sistematico1\obj\Debug\Sistematico1.ProductoCatalogo.resources
+C:\Users\LENOVO\Documents\Uziel\Git repos\Sistematico1_DotNet\Sistematico1\Sistematico1\obj\Debug\Sistematico1.ProductoView.resources
+C:\Users\LENOVO\Documents\Uziel\Git repos\Sistematico1_DotNet\Sistematico1\Sistematico1\obj\Debug\Sistematico1.Properties.Resources.resources
+C:\Users\LENOVO\Documents\Uziel\Git repos\Sistematico1_DotNet\Sistematico1\Sistematico1\obj\Debug\Sistematico1.ucProducto.resources
+C:\Users\LENOVO\Documents\Uziel\Git repos\Sistematico1_DotNet\Sistematico1\Sistematico1\obj\Debug\Sistematico1.csproj.GenerateResource.cache
+C:\Users\LENOVO\Documents\Uziel\Git repos\Sistematico1_DotNet\Sistematico1\Sistematico1\obj\Debug\Sistematico1.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Documents\Uziel\Git repos\Sistematico1_DotNet\Sistematico1\Sistematico1\obj\Debug\Sistematico1.exe
+C:\Users\LENOVO\Documents\Uziel\Git repos\Sistematico1_DotNet\Sistematico1\Sistematico1\obj\Debug\Sistematico1.pdb
+C:\Users\LENOVO\Documents\Uziel\Git repos\Sistematico1_DotNet\Sistematico1\Sistematico1\bin\Debug\Sistematico1.exe.config
+C:\Users\LENOVO\Documents\Uziel\Git repos\Sistematico1_DotNet\Sistematico1\Sistematico1\bin\Debug\Sistematico1.exe
+C:\Users\LENOVO\Documents\Uziel\Git repos\Sistematico1_DotNet\Sistematico1\Sistematico1\bin\Debug\Sistematico1.pdb
+C:\Users\LENOVO\Documents\Uziel\Git repos\Sistematico1_DotNet\Sistematico1\Sistematico1\obj\Debug\Sistematico1.FrmMdi.resources
+C:\Users\LENOVO\source\repos\Sistematico1_DotNet\Sistematico1\Sistematico1\obj\Debug\Sistematico1.FrmMdi.resources
+C:\Users\Sistemas-08\Documents\Git repos\Sistematico1_DotNet\Sistematico1\Sistematico1\bin\Debug\Sistematico1.exe.config
+C:\Users\Sistemas-08\Documents\Git repos\Sistematico1_DotNet\Sistematico1\Sistematico1\bin\Debug\Sistematico1.exe
+C:\Users\Sistemas-08\Documents\Git repos\Sistematico1_DotNet\Sistematico1\Sistematico1\bin\Debug\Sistematico1.pdb
+C:\Users\Sistemas-08\Documents\Git repos\Sistematico1_DotNet\Sistematico1\Sistematico1\obj\Debug\Sistematico1.csprojAssemblyReference.cache
+C:\Users\Sistemas-08\Documents\Git repos\Sistematico1_DotNet\Sistematico1\Sistematico1\obj\Debug\Sistematico1.FrmMdi.resources
+C:\Users\Sistemas-08\Documents\Git repos\Sistematico1_DotNet\Sistematico1\Sistematico1\obj\Debug\Sistematico1.Productos.resources
+C:\Users\Sistemas-08\Documents\Git repos\Sistematico1_DotNet\Sistematico1\Sistematico1\obj\Debug\Sistematico1.ProductoCatalogo.resources
+C:\Users\Sistemas-08\Documents\Git repos\Sistematico1_DotNet\Sistematico1\Sistematico1\obj\Debug\Sistematico1.ProductoView.resources
+C:\Users\Sistemas-08\Documents\Git repos\Sistematico1_DotNet\Sistematico1\Sistematico1\obj\Debug\Sistematico1.Properties.Resources.resources
+C:\Users\Sistemas-08\Documents\Git repos\Sistematico1_DotNet\Sistematico1\Sistematico1\obj\Debug\Sistematico1.ucProducto.resources
+C:\Users\Sistemas-08\Documents\Git repos\Sistematico1_DotNet\Sistematico1\Sistematico1\obj\Debug\Sistematico1.csproj.GenerateResource.cache
+C:\Users\Sistemas-08\Documents\Git repos\Sistematico1_DotNet\Sistematico1\Sistematico1\obj\Debug\Sistematico1.csproj.CoreCompileInputs.cache
+C:\Users\Sistemas-08\Documents\Git repos\Sistematico1_DotNet\Sistematico1\Sistematico1\obj\Debug\Sistematico1.exe
+C:\Users\Sistemas-08\Documents\Git repos\Sistematico1_DotNet\Sistematico1\Sistematico1\obj\Debug\Sistematico1.pdb
+C:\Users\Sistemas-08\Desktop\Sistematico1\bin\Debug\Sistematico1.exe.config
+C:\Users\Sistemas-08\Desktop\Sistematico1\bin\Debug\Sistematico1.exe
+C:\Users\Sistemas-08\Desktop\Sistematico1\bin\Debug\Sistematico1.pdb
+C:\Users\Sistemas-08\Desktop\Sistematico1\obj\Debug\Sistematico1.csprojAssemblyReference.cache
+C:\Users\Sistemas-08\Desktop\Sistematico1\obj\Debug\Sistematico1.FrmMdi.resources
+C:\Users\Sistemas-08\Desktop\Sistematico1\obj\Debug\Sistematico1.Productos.resources
+C:\Users\Sistemas-08\Desktop\Sistematico1\obj\Debug\Sistematico1.ProductoCatalogo.resources
+C:\Users\Sistemas-08\Desktop\Sistematico1\obj\Debug\Sistematico1.ProductoView.resources
+C:\Users\Sistemas-08\Desktop\Sistematico1\obj\Debug\Sistematico1.Properties.Resources.resources
+C:\Users\Sistemas-08\Desktop\Sistematico1\obj\Debug\Sistematico1.ucProducto.resources
+C:\Users\Sistemas-08\Desktop\Sistematico1\obj\Debug\Sistematico1.csproj.GenerateResource.cache
+C:\Users\Sistemas-08\Desktop\Sistematico1\obj\Debug\Sistematico1.csproj.CoreCompileInputs.cache
+C:\Users\Sistemas-08\Desktop\Sistematico1\obj\Debug\Sistematico1.exe
+C:\Users\Sistemas-08\Desktop\Sistematico1\obj\Debug\Sistematico1.pdb
+E:\Sistematico1\bin\Debug\Sistematico1.exe.config
+E:\Sistematico1\bin\Debug\Sistematico1.exe
+E:\Sistematico1\bin\Debug\Sistematico1.pdb
+E:\Sistematico1\obj\Debug\Sistematico1.csprojAssemblyReference.cache
+E:\Sistematico1\obj\Debug\Sistematico1.FrmMdi.resources
+E:\Sistematico1\obj\Debug\Sistematico1.Productos.resources
+E:\Sistematico1\obj\Debug\Sistematico1.ProductoCatalogo.resources
+E:\Sistematico1\obj\Debug\Sistematico1.ProductoView.resources
+E:\Sistematico1\obj\Debug\Sistematico1.Properties.Resources.resources
+E:\Sistematico1\obj\Debug\Sistematico1.ucProducto.resources
+E:\Sistematico1\obj\Debug\Sistematico1.csproj.GenerateResource.cache
+E:\Sistematico1\obj\Debug\Sistematico1.csproj.CoreCompileInputs.cache
+E:\Sistematico1\obj\Debug\Sistematico1.exe
+E:\Sistematico1\obj\Debug\Sistematico1.pdb
+E:\Prog.PruebaProductos\bin\Debug\Sistematico1.exe.config
+E:\Prog.PruebaProductos\bin\Debug\Sistematico1.exe
+E:\Prog.PruebaProductos\bin\Debug\Sistematico1.pdb
+E:\Prog.PruebaProductos\obj\Debug\Sistematico1.csprojAssemblyReference.cache
+E:\Prog.PruebaProductos\obj\Debug\Sistematico1.FrmMdi.resources
+E:\Prog.PruebaProductos\obj\Debug\Sistematico1.Productos.resources
+E:\Prog.PruebaProductos\obj\Debug\Sistematico1.ProductoCatalogo.resources
+E:\Prog.PruebaProductos\obj\Debug\Sistematico1.ProductoView.resources
+E:\Prog.PruebaProductos\obj\Debug\Sistematico1.Properties.Resources.resources
+E:\Prog.PruebaProductos\obj\Debug\Sistematico1.ucProducto.resources
+E:\Prog.PruebaProductos\obj\Debug\Sistematico1.csproj.GenerateResource.cache
+E:\Prog.PruebaProductos\obj\Debug\Sistematico1.csproj.CoreCompileInputs.cache
+E:\Prog.PruebaProductos\obj\Debug\Sistematico1.exe
+E:\Prog.PruebaProductos\obj\Debug\Sistematico1.pdb
+C:\Users\Jeison Suarez\Desktop\Prog.PruebaProductos\bin\Debug\Sistematico1.exe.config
+C:\Users\Jeison Suarez\Desktop\Prog.PruebaProductos\bin\Debug\Sistematico1.exe
+C:\Users\Jeison Suarez\Desktop\Prog.PruebaProductos\bin\Debug\Sistematico1.pdb
+C:\Users\Jeison Suarez\Desktop\Prog.PruebaProductos\obj\Debug\Sistematico1.csproj.AssemblyReference.cache
+C:\Users\Jeison Suarez\Desktop\Prog.PruebaProductos\obj\Debug\Sistematico1.FrmMdi.resources
+C:\Users\Jeison Suarez\Desktop\Prog.PruebaProductos\obj\Debug\Sistematico1.Productos.resources
+C:\Users\Jeison Suarez\Desktop\Prog.PruebaProductos\obj\Debug\Sistematico1.ProductoCatalogo.resources
+C:\Users\Jeison Suarez\Desktop\Prog.PruebaProductos\obj\Debug\Sistematico1.ProductoView.resources
+C:\Users\Jeison Suarez\Desktop\Prog.PruebaProductos\obj\Debug\Sistematico1.Properties.Resources.resources
+C:\Users\Jeison Suarez\Desktop\Prog.PruebaProductos\obj\Debug\Sistematico1.ucProducto.resources
+C:\Users\Jeison Suarez\Desktop\Prog.PruebaProductos\obj\Debug\Sistematico1.csproj.GenerateResource.cache
+C:\Users\Jeison Suarez\Desktop\Prog.PruebaProductos\obj\Debug\Sistematico1.csproj.CoreCompileInputs.cache
+C:\Users\Jeison Suarez\Desktop\Prog.PruebaProductos\obj\Debug\Sistematico1.exe
+C:\Users\Jeison Suarez\Desktop\Prog.PruebaProductos\obj\Debug\Sistematico1.pdb
